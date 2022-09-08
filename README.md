@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 --->
 
 <h1 align="center">Hi 👋, I'm Dnyaneshwari Kolapkar</h1>
-<h3 align="center">Second year IT Engineering student</h3>
+<h3 align="center">Third Year B.Tech student pursuing information technology degree.</h3>
+
+<a href="https://app.daily.dev/dnyan"><img src="https://api.daily.dev/devcards/9f92d474bf10478898ed097b6c815d8c.png?r=snj" width="400" alt="Dnyaneshwari Kolapkar's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwarikolapkar&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwarikolapkar" /> </p>
 
