@@ -26,6 +26,14 @@
       src="https://github.com/DnyaneshwariKolapkar/DnyaneshwariKolapkar/blob/main/devcard.svg"
     />
   </a>
+ 
+ 
+  ## About Me:
+- 💻 Open-Source and CyberSecurity Enthusiast!
+- 🕸️ I’m currently learning **Web Development**
+- 📝 I’m currently working on improving my problem solving skills
+- 📫 How to reach me **kolapkardnyaneshwari@gmail.com**
+- 💬 Talk to me about books, origami and anything related to technology.
   
 ### Languages
 
@@ -49,7 +57,10 @@
 
 
 ---
-  
+## 💻 WorkStation
+[![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/windows-11)
+ ---
 ### Find me 
 <p align="left">
 <a href="https://www.codechef.com/users/dnyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dnyan" height="40" width="40" /></a>
