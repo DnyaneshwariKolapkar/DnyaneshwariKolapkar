@@ -1,24 +1,24 @@
-<!-- ### Hi there 👋
 
 
-**DnyaneshwariKolapkar/DnyaneshwariKolapkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Dnyaneshwari Kolapkar</h1>
+<h3 align="center">Third Year B.Tech student pursuing Information Technology degree.</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on improving my problem solving skills
-- 🌱 I’m currently learning CyberSecurity
-- 😄 Pronouns: She/her
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
---->
-
-<h1 align="center">Hi 👋, I'm Dnyaneshwari Kolapkar</h1>
-<h3 align="center">Third Year B.Tech student pursuing information technology degree.</h3>
-
-
+<div align="left">
+  <a href="https://twitter.com/dnyank_">
+    <img
+      src="https://img.shields.io/twitter/follow/dnyank_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/dnyaneshwari-kolapkar-1763671ba">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  
+  
+  
   <a href="https://app.daily.dev/dnyan" target="_blank">
     <img
       width="300"
@@ -26,7 +26,42 @@ Here are some ideas to get you started:
       src="https://github.com/DnyaneshwariKolapkar/DnyaneshwariKolapkar/blob/main/devcard.svg"
     />
   </a>
+  
+### Languages
 
+  <p align="left"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" width="40" height="40"/> 
+  </p>
+
+
+---
+### Tools
+
+  <p align="left"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/> 
+    <img src="https://upload.vectorlogo.zone/logos/android_studio/images/bc43bbac-e239-4ae9-829a-9809e57a8bc0.svg" alt="Android Studio" width="40" height="40"/> 
+  </p>
+
+
+---
+  
+### Find me 
+<p align="left">
+<a href="https://www.codechef.com/users/dnyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dnyan" height="40" width="40" /></a>
+   <a href="https://leetcode.com/dnyanK/" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/leetcode.svg" alt="https://leetcode.com/dnyanK/" height="40" width="40" /></a>
+ <a href="https://codeforces.com/profile/dnyan_K" target="blank"><img align="center" src="https://github.com/simple-icons/simple-icons/blob/master/icons/codeforces.svg" alt="https://codeforces.com/profile/dnyan_K" height="40" width="40" /></a>
+</p>
+
+  <img align="left" src="https://github.com/DnyaneshwariKolapkar/DnyaneshwariKolapkar/blob/main/github-metrics.svg" alt="Metrics" width="500">
+  </div>
+  
+
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnyaneshwarikolapkar&label=Profile%20views&color=0e75b6&style=flat" alt="dnyaneshwarikolapkar" /> </p>
 
 - 🔭 I’m currently working on improving my problem solving skills
@@ -56,3 +91,4 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/dnyaneshwari-kolapkar-1763671ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dnyaneshwari-kolapkar-1763671ba" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dnyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dnyan" height="30" width="40" /></a>
 </p>
+-->
